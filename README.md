@@ -14,10 +14,9 @@ The Case Management System is a console-based application designed to help prose
 ## Setup Instructions
 To set up and run the Case Management System locally, follow these steps:
 
-1. **Prerequisites**: Ensure you have Visual Studio Community 2019 installed on your machine.
-2. **Clone the Repository**: Clone the project repository from GitHub to your local machine.
-3. **Open Project**: Open the project files in Visual Studio Community 2019.
-4. **Build and Run**: Build the project and run it from Visual Studio. The console application will start, and you will be prompted with a menu of options.
+1. Clone this repository.
+2. Compile the C# code.
+3. Run the program and you will prompted with a menu of options to choose from.
 
 ## Usage Instructions
 Upon running the application, you will interact with the console through a series of prompts. The main menu offers several options:
